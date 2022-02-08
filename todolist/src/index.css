@@ -1,0 +1,9 @@
+.pointer{
+    cursor: pointer;
+    }
+    .breedteColumn{
+      width:120px;
+    }
+    .finished{
+      text-decoration: line-through;
+    }
