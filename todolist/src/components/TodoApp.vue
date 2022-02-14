@@ -51,6 +51,7 @@
 </template>
 
 <script>
+import 'bootstrap/dist/css/bootstrap.min.css';
 export default {
   data(){
     return{
@@ -106,15 +107,3 @@ export default {
   }
 };
 </script>
-
-<style>
-.pointer{
-  cursor: pointer;
-  }
-  .breedteColumn{
-    width:120px;
-  }
-  .finished{
-    text-decoration: line-through;
-  }
-</style>
